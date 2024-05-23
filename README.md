@@ -114,8 +114,6 @@ ID
 Action
 Time
 
-Sure, here's a comprehensive README for your Flex Trainer management system project, integrating all the provided details:
-
 Flex Trainer Management System
 Welcome to the Flex Trainer Management System, a comprehensive application designed to streamline and automate the management of gyms and health membership systems. This application helps gym owners keep detailed records of registered members, guides users through personalized workout and diet plans, and facilitates various administrative tasks through an intuitive user interface.
 
